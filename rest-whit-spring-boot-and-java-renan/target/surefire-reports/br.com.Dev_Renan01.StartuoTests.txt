@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.Dev_Renan01.StartuoTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.258 s -- in br.com.Dev_Renan01.StartuoTests
